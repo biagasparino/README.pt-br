@@ -13,7 +13,7 @@ Sou movida por aprendizado constante, trabalho em equipe e por fazer as coisas c
 
 <br>
 🌸 o que eu gosto de fazer
-🩰 cuidar da saúde e da estabilidade de sistemas, com muito carinho pelos detalhes
+💚 cuidar da saúde e da estabilidade de sistemas, com muito carinho pelos detalhes
 🔎 investigar, entender causas e resolver problemas com calma
 ⚙️ automatizar processos para simplificar o dia a dia de quem trabalha comigo
 ☁️ trabalhar com ambientes na nuvem, sempre buscando deixar tudo mais organizado
@@ -23,7 +23,7 @@ Sou movida por aprendizado constante, trabalho em equipe e por fazer as coisas c
 <br>
 🎧 quando não estou trabalhando...
 
-Gosto de coisas simples e delicadas: organizar minhas ideias em listinhas, cuidar dos meus projetos pessoais com calma, e aprender coisas novas só por curiosidade mesmo. Acredito que gentileza e leveza também têm espaço no mundo da tecnologia — e tento levar isso comigo todos os dias. 🎀
+Gosto de coisas simples e delicadas: organizar minhas ideias em listinhas, cuidar dos meus projetos pessoais com calma, e aprender coisas novas só por curiosidade mesmo. Acredito que gentileza e leveza também têm espaço no mundo da tecnologia — e tento levar isso comigo todos os dias!
 
 <br>
 💌 vamos nos conectar?
