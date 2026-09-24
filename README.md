@@ -3,16 +3,16 @@
 [![English Version](https://img.shields.io/badge/🇺🇸_Read_in_English-E8D5B7?style=for-the-badge&logoColor=594A3C)](README.md)
 
 </div> <br>
-🎀 sobre mim
+sobre mim
 
 Sou uma pessoa curiosa, organizada e apaixonada por entender como as coisas funcionam por trás das telas. No meu dia a dia, cuido para que sistemas e ambientes continuem estáveis, saudáveis e funcionando bem — gosto de antecipar problemas antes que eles aconteçam e de transformar bagunça em algo simples e claro.
 
 Tenho carinho especial por automatizar tarefas repetitivas, criar painéis bonitos que contam uma história com dados, e por aquele momento gostoso de descobrir a causa real de um problema depois de investigar com calma.
 
-Sou movida por aprendizado constante, trabalho em equipe e por fazer as coisas com capricho — do código ao resultado final. 🌷
+Sou movida por aprendizado constante, trabalho em equipe e por fazer as coisas com capricho — do código ao resultado final. 
 
 <br>
-🌸 o que eu gosto de fazer
+o que eu gosto de fazer: 
 💚 cuidar da saúde e da estabilidade de sistemas, com muito carinho pelos detalhes
 🔎 investigar, entender causas e resolver problemas com calma
 ⚙️ automatizar processos para simplificar o dia a dia de quem trabalha comigo
@@ -26,7 +26,7 @@ Sou movida por aprendizado constante, trabalho em equipe e por fazer as coisas c
 Gosto de coisas simples e delicadas: organizar minhas ideias em listinhas, cuidar dos meus projetos pessoais com calma, e aprender coisas novas só por curiosidade mesmo. Acredito que gentileza e leveza também têm espaço no mundo da tecnologia — e tento levar isso comigo todos os dias.
 
 <br>
-💌 vamos nos conectar?
+vamos nos conectar?
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C9A9E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-gasparino/)
