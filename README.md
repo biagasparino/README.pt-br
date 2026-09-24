@@ -1,6 +1,9 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,100:C9A9E9&height=200&section=header&text=Oi,%20seja%20bem-vindo(a)!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=eu%20sou%20a%20Bianca%20%F0%9F%8C%B8&descAlignY=55&descSize=18" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=800&color=D9A5D9&center=true&vCenter=true&width=500&lines=cuido+para+que+tudo+continue+de+p%C3%A9+%E2%98%81%EF%B8%8F;gosto+de+entender+o+porqu%C3%AA+das+coisas+%F0%9F%94%8D;transformo+caos+em+calma+%E2%9C%A8" alt="Typing SVG" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,100:C9A9E9&height=200&section=header&text=Oi,%20seja%20bem-vindo(a)!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=eu%20sou%20a%20Bianca%20%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB&descAlignY=55&descSize=18" width="100%"/>
 
-[![English Version](https://img.shields.io/badge/🇺🇸_Read_in_English-E8D5B7?style=for-the-badge&logoColor=594A3C)](README.md)
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=800&color=D9A5D9&center=true&vCenter=true&width=500&lines=cuido+para+que+tudo+continue+de+p%C3%A9+%E2%98%81%EF%B8%8F;gosto+de+entender+o+porqu%C3%AA+das+coisas+%F0%9F%94%8D;transformo+caos+em+calma+%E2%9C%A8" alt="Typing SVG" />
+
+  [![English Version](https://img.shields.io/badge/🇺🇸_Read_in_English-E8D5B7?style=for-the-badge&logoColor=594A3C)](README.md)
 
 </div> <br>
 sobre mim
